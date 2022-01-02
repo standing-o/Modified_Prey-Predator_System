@@ -1,4 +1,4 @@
-# Modified prey-predator systems
+# Modified prey-predator system
 - We aim to study the behaviors of the modified prey–predator model and establish the effects of several parameters that play an important role in the model. We also
 analyze the stability behavior of fixed points.
 - Oct. 4, 2021 ~ Dec. 22, 2021
