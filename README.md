@@ -8,7 +8,7 @@ analyze the stability behavior of fixed points.
 > **Abstract** The prey–predator model is one of the most influential mathematical models in ecology and evolutionary biology. In this study, we considered a modified prey–predator model, which describes the rate of change for each species. The effects of modifications to the classical prey–predator model are investigated here. The conditions required for the existence of the first integral and the stability of the fixed points are studied. In particular, it is shown that the first integral exists only for a subset of the model parameters, and the phase portraits around the fixed points exhibit physically relevant phenomena over a wide range of the parameter space. The results show that adding coupling terms to the classical model widely expands the dynamics with great potential for applicability in real-world phenomena.
 
 ## Modified prey-predator system
-![image](https://user-images.githubusercontent.com/57218700/147870722-e57b89ba-8a22-4ae1-936e-1ae1016dec1f.png)
+![image](https://user-images.githubusercontent.com/57218700/147870740-53686551-aa16-46e2-9897-a71a7065d21d.png)
 
 - The parameters &alpha;, &beta;, &gamma; and &delta; are positive constants and the new parameters &epsilon; and &lambda; are arbitrary nonzero ones.
 - Phase portraits of the modified system for various values of the &epsilon; and &lambda; at &alpha;=0.1, &beta;=0.01, &gamma;=0.02 and &delta;=0.1.
