@@ -12,7 +12,7 @@ analyze the stability behavior of fixed points.
 <sup>dy</sup>/<sub>dt</sub> = &delta; xy - &gamma; y + &lambda; x'y.
 - The parameters &alpha;, &beta;, &gamma; and &delta; are positive constants and the new parameters &epsilon; and &lambda; are arbitrary nonzero ones.
 - Phase portraits of the modified system for various values of the &epsilon; and &lambda; at &alpha;=0.1, &beta;=0.01, &gamma;=0.02 and &delta;=0.1.
-<img src = "https://user-images.githubusercontent.com/57218700/147870561-8a197af9-f1f2-4ad6-9f0c-6bf4a36e1095.png)" width=80%>
+<img src = 'https://user-images.githubusercontent.com/57218700/147870561-8a197af9-f1f2-4ad6-9f0c-6bf4a36e1095.png' width=80%>
 
 ## Authors
 - HYEJI HAN, GWANGIL KIM, SEOYOUNG OH. 
